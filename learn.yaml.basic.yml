@@ -1,0 +1,15 @@
+name : Rahul
+age : 23
+role : trinee
+address: hydrabad
+
+key : 
+    key1 : 24
+    key2: 30
+    key3:
+        key4:24
+array:
+    - item1
+
+    
+        
